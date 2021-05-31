@@ -1,0 +1,10 @@
+C:\Users\Matheus\Desktop\Projetos\C#\Chat\ChatServidor\bin\Debug\ChatServidor.exe.config
+C:\Users\Matheus\Desktop\Projetos\C#\Chat\ChatServidor\bin\Debug\ChatServidor.exe
+C:\Users\Matheus\Desktop\Projetos\C#\Chat\ChatServidor\bin\Debug\ChatServidor.pdb
+C:\Users\Matheus\Desktop\Projetos\C#\Chat\ChatServidor\obj\Debug\ChatServidor.csprojAssemblyReference.cache
+C:\Users\Matheus\Desktop\Projetos\C#\Chat\ChatServidor\obj\Debug\ChatServidor.frmServidor.resources
+C:\Users\Matheus\Desktop\Projetos\C#\Chat\ChatServidor\obj\Debug\ChatServidor.Properties.Resources.resources
+C:\Users\Matheus\Desktop\Projetos\C#\Chat\ChatServidor\obj\Debug\ChatServidor.csproj.GenerateResource.cache
+C:\Users\Matheus\Desktop\Projetos\C#\Chat\ChatServidor\obj\Debug\ChatServidor.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\Projetos\C#\Chat\ChatServidor\obj\Debug\ChatServidor.exe
+C:\Users\Matheus\Desktop\Projetos\C#\Chat\ChatServidor\obj\Debug\ChatServidor.pdb
